@@ -6,6 +6,13 @@ mary = 16
 
 # Your code goes here
 
+puts "my mom's age is #{mom}";
+puts "my dad's age is #{dad}";
+puts "John's age is #{john}";
+puts "Mary's age is #{mary}";
+
+
+
 puts "my mom's age is";
 puts mom;
 puts "my dad's age is";
